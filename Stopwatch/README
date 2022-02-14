@@ -1,0 +1,2 @@
+This project is to create a stopwatch from an ATmega238P, and uses the AVR timer and counter, 
+a shift register, and time-multiplexing a four-digit seven-segment LED module.
